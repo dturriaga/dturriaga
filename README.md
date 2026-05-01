@@ -21,12 +21,6 @@ Soy un amante de la informática orientado a la resolución de problemas, la opt
 * **Lenguajes:** Python, C#, PHP, SQL
 * **Intereses Técnicos:** Automatización, Scripting, Desarrollo de APIs, Optimización de Bases de Datos
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dturriaga&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=777&icon_color=white" alt="Estadísticas de GitHub de Diego Turriaga" />
-</div>
-
 ## 📫 Contacto
 
 * **LinkedIn:** https://www.linkedin.com/in/diego-turriaga/
